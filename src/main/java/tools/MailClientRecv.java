@@ -9,7 +9,7 @@ public class MailClientRecv {
   private Session session;
   private Store store;
   private String username = "chenliangyu1980@126.com";
-  private String password = "1234567899";
+  private String password = "***************";
   private String popServer = "pop.126.com";
   
   public void init()throws Exception
